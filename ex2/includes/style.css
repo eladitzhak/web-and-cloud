@@ -1,0 +1,133 @@
+*{margin:0;padding:0;}
+
+
+a {
+	font-family:arial;
+	text-decoration:none;
+	color:#264951;
+  }
+a:hover{color:#D3D3D3;}
+ 
+  #logo { 
+		  display: inline-block;
+		  background-image:url("../images/PCS1.png");
+		  font-size:25px;
+		  background-repeat:no-repeat;
+		  color:#264951;
+		  padding-left:55px;
+		  padding-bottom:8px;
+		  margin-left:40px;
+		  padding-right:75px;		 
+	}
+ .head1 {
+		width:100%;
+		font-family:david;
+		font-weight:bold;
+		font-size:30px;
+		margin-left:211px;
+		margin-top:35px;	
+		margin-right:220px;
+		margin-bottom:25px;
+ } 
+  
+.person {
+		color:#ffedd6;
+		/* the empire pic*/
+		background:url("../images/1123.png");
+		width:1600px;
+		height:560px;
+		background-repeat:no-repeat;
+		padding-bottom:100%;
+		text-align:center;
+
+}
+	.person h1 {	
+		padding-top:200px;
+		font-size:120px;
+		font-family:david;
+		border-bottom: 2px solid #3ba0d1;
+		display: inline-block;	 
+	}	
+	.person p{
+			color:#ffedd6;
+			padding-top:40px;
+			font-size:20px;
+	}
+	.person a{
+				border-radius:3px;
+				border:1px solid #3ba0d1; 
+				font-size:18px;
+				padding-top:18px;
+				padding-bottom:16px;
+				padding-right:20px;
+				padding-left:20px;
+				margin-top:70px;
+				display: inline-block;
+				color:#ffffff;
+	}
+		/* the arrow pic */
+	.person div{
+				content:url("../images/arr.png");
+				background-repeat: no-repeat;
+				margin-left:780px;
+				padding-top:162px;
+				margin-bottom:90px;
+	}
+.mid {
+			background-color:#f6f9f9;
+			padding-top:40px;
+			height:340px;
+	  }
+	.mid h3 {color:#264951;font-size:40px}
+	.mid p {margin-top:-15px;color:#bba993;}
+
+	/*programing knowlesge and skills sections */
+.knowledge {margin-top:80px;color:#4f4743;}
+
+	.knowledge ul{ list-style-type: none;}		
+	.knowledge h2  {padding-bottom:60px;}
+	.knowledge ul >.cprog {
+						font-size:50px;
+						color:#4f4743;
+						padding-bottom:20px;
+						display:inline-block;
+					  }							
+	.knowledge ul .cprog > h6{  padding-left:35px;
+							width:100%;
+							display:inline;
+						}
+	.knowledge ul >.cppprog {
+							font-size:50px;
+							color:#4f4743;
+							padding-bottom:30px;
+							margin-left:80px;
+							margin-right:50px;	
+							text-align:center;
+							}
+	.knowledge ul >.cppprog h6{
+									padding-left:35px;
+									 width:100%;
+									display:inline;
+								}
+	.knowledge ul img	{height:100px;width:100px;}
+	
+	.knowledge ul >.html {
+							font-size:50px;
+							color:#4f4743;
+							padding-bottom:30px;
+							margin-left:105px;
+							margin-right:50px;	
+							}
+	.knowledge ul >.html h6{
+							padding-left:20px;
+							width:100%;
+							display:inline;
+							}	
+
+.botfoot {
+			background-color:#f6f9f9;
+			padding-top:25px;
+			padding-bottom:40px;			
+		}
+								
+.botfoot a {padding-right:5px;}
